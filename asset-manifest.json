@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DetectMapUSA/static/css/main.1d7e1746.css",
+    "main.js": "/DetectMapUSA/static/js/main.f73517eb.js",
+    "index.html": "/DetectMapUSA/index.html",
+    "main.1d7e1746.css.map": "/DetectMapUSA/static/css/main.1d7e1746.css.map",
+    "main.f73517eb.js.map": "/DetectMapUSA/static/js/main.f73517eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7e1746.css",
+    "static/js/main.f73517eb.js"
+  ]
+}
