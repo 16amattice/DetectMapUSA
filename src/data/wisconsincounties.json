@@ -1,0 +1,30 @@
+[
+    {
+        "55035": {
+            "NAME": "Eau Claire",
+            "LAW": "LAW",
+            "CITIES": {
+                "001": {
+                    "NAME": "Altoona",
+                    "LAW": "LAW 1"
+                },
+                "002": {
+                    "NAME": "Augusta",
+                    "LAW": "LAW 2"
+                },
+                "003": {
+                    "NAME": "Eau Claire",
+                    "LAW": "LAW 3"
+                },
+                "004": {
+                    "NAME": "Fairchild",
+                    "LAW": "LAW 4"
+                },
+                "005": {
+                    "NAME": "Fall Creek",
+                    "LAW": "LAW 5"
+                }
+            }
+        }
+    }
+]
